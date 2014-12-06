@@ -1,11 +1,11 @@
 Package: pcaGoPromoter.Hs.hg19
-Version: 1.3.0
+Version: 1.3.1
 Date: 2011-12-07
 Title: pcaGoPromoter.Hs.hg19 is a data package used by pcaGoPromoter
 Author: Morten Hansen, <mhansen@sund.ku.dk>
 Maintainer: Morten Hansen, <mhansen@sund.ku.dk>
 Description: Contains the data for transciption factors analysis of organism Homo Sapiens with package pcaGoPromoter
-biocViews: AnnotationData, Homo_sapiens
+biocViews: Homo_sapiens_Data
 LazyLoad: yes
 License: GPL (>= 2)
 Packaged: 2011-12-07 21:32:40 UTC; morten
